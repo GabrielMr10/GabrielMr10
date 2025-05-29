@@ -1,4 +1,4 @@
-## 👋 Olá! Seja bem-vindo(a) ao meu perfil do GitHub, sou o desenvolvedor Full-stack.
+##Olá! Sou o Gabriel Meira, desenvolvedor Full-stack.
 
 ### 🚀 Tecnologias que utiliso no meu dia a dia:
 
