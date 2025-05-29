@@ -2,7 +2,7 @@
 
 ### 🚀 Tecnologias que utiliso no meu dia a dia:
 
-<div style="display: inline_block">
+<div style="display: inline_block"></br>
   <img align="center" alt="Js" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" title="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
