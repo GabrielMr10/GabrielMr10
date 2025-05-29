@@ -1,4 +1,10 @@
 ## Olá! Sou o Gabriel Meira, desenvolvedor Full-stack.
+</br>
+#### Sou um desenvolvedor focado em solucionar problemas no digital, com experiencia no ecossistema web moderno, desenvolvendo tanto no front-end quanto no back-end, em busca de novos desafios, oportunidade que possam me tirar da zona de conforto e que contribuam com o meu crescimento pessoal e profissional.
+
+No momento, estou cursando Bacharelado em Engenharia de Software, onde aprofundo os meus conhecimentos e boas práticas de desenvolvimento.
+
+Acredito que tecnologia, quando bem usada com um bom propósito, tem um grande poder de transformar o futuro, e é nisso que quero fazer parte.
 
 ### 🚀 Tecnologias que utiliso no meu dia a dia:
 
