@@ -17,7 +17,7 @@ Acredito que tecnologia, quando bem usada com um bom propósito, tem um grande p
   <img align="center" alt="HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="https://cdn.simpleicons.org/n8n" width="30" height="30" />
+  <img align="center" src="https://cdn.simpleicons.org/n8n" width="30" height="30" />
 </div>
 
 </br>
